@@ -2,7 +2,7 @@
  * Selector Widget
  * https://github.com/lets-fiware/selector-widget
  *
- * Copyright (c) 2020-2023 Kazuhito Suda
+ * Copyright (c) 2020-2024 Kazuhito Suda
  * Licensed under the MIT license.
  */
 
